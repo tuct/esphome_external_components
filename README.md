@@ -2,6 +2,9 @@
 
 collection of esphome components
 
+## UPDATE - MOVED TO [HERE](https://github.com/tuct/esphome-projects) => components
+
+
 ## SEN66
 Just because i didn't wanted to wait for the official component after getting my SEN66 evaluation kit!
 
